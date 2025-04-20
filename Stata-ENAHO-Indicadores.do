@@ -1,5 +1,5 @@
 *==============================================================
-* RESULTADOS DE LA ENCUESTA A HOGARES - PROYECTO MACROREGIONAL 2
+* RESULTADOS DE LA ENCUESTA A HOGARES 
 *==============================================================
 clear all
 global bases "Descargas"
